@@ -1,15 +1,15 @@
 {
-    "name": "𝗔𝗟𝗣𝗛𝗔 𝗛𝗔𝗖𝗞 𝗕𝗢𝗧",
-    "description": "𝗧𝗛𝗜𝗦 𝗕𝗢𝗧 𝗠𝗔𝗞𝗘 𝗕𝗬 𝗧𝗘𝗔𝗠 𝗣𝗨𝗥𝗩𝗜 𝗕𝗢𝗧𝗦",
+    "name": "Its_me_Vishall",
+    "description": "https://t.me/ItsMeVishalSupport",
     "logo": "",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "banall"
     ],
-    "website": "https://t.me/ll_ALPHA_BABY_lll",
+    "website": "https://t.me/Its_me_Vishall",
     "repository": "https://github.com/TEAMPURVI/STRING_HACK",
-    "success_url": "https://t.me/ll_ALPHA_BABY_lll",
+    "success_url": "https://t.me/Its_me_Vishall",
     "env": {
         "API_ID": {
             "description": "your API_ID ",
