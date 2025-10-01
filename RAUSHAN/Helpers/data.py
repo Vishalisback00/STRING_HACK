@@ -7,7 +7,7 @@ PM_TEXT = """
 
 **✦ » ɪ sᴜᴘᴘᴏʀᴛ ʙᴏᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ ᴄʟɪᴄᴋ ᴏɴ ʜᴀᴄᴋ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ᴡʜᴀᴛ I ᴄᴀɴ ᴅᴏ.**
 
-**✦ » 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](http://t.me/ll_ALPHA_BABY_lll)**
+**✦ » 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [»»—— IтＳ ᗰ€ 𝐕𝐢ร卄𝕒ᒪ »](http://t.me/Its_me_Vishall)**
 """
 
 HACK_TEXT = """
@@ -45,8 +45,8 @@ info = """
 PM_BUTTON = IKM([
     [IKB("•─╼⃝𖠁 𝐇ᴀᴄᴋ 𖠁⃝╾─•", callback_data="hack_btn")],
 [
-    IKB("🔸 ❍ᴡɴᴇʀ🔸", url="http://t.me/ll_ALPHA_BABY_lll"),
-    IKB("▫️ 𝗨ᴘᴅᴀᴛᴇs ▫️", url="http://t.me/purvi_support")
+    IKB("🔸 ❍ᴡɴᴇʀ🔸", url="http://t.me/Its_me_Vishall"),
+    IKB("▫️ 𝗨ᴘᴅᴀᴛᴇs ▫️", url="https://t.me/+t_mw392cqwNmNzI1")
 ]
 ])
 
